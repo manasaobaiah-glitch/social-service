@@ -1,0 +1,39 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.college-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background-color: #102b50;
+    color: white;
+}
+
+.logo img {
+    width: 90px;
+    height: 90px;
+}
+
+.college-info {
+    text-align: center;
+}
+
+.college-info h1 {
+    font-size: 30px;
+    color: #f5c542;
+}
+
+.college-info p {
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.contact-info {
+    font-size: 14px;
+    line-height: 2;
+}
